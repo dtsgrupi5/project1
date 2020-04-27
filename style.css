@@ -79,21 +79,24 @@
 /* EXTRA 1 */
 
 .extra1{
-  height: 250px;
+  height: 300px;
   background-color: #f7f7f7b2;
 }
 
 .food{
   float: left;
   width: 25%;
+  border-bottom: 2px solid #dee7ec;
 }
 
 .food-icon img {
   width: 150px;
   height: 150px;
+  border: 2px solid #dee7ec;
 }
 
 .text-heading{
+  border-top: 2px solid #dee7ec ; 
   color: red;
 }
 
