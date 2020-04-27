@@ -71,27 +71,6 @@
   transform: translate3d(0, -5px, 0);
 }
 
-@media (max-width: 1000px) {
-  .profile-card {
-    width: 50%;
-  }
-  .form-card {
-    width:60%;
-  }
-}
-
-@media (max-width: 670px) {
-  .profile-card {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-  .profiles {
-    margin-bottom: 0px;
-  }
-  .form-card {
-    width:100%;
-  }
-}
 
 .extra2 {
   text-align: center;
@@ -137,4 +116,30 @@ footer h3 {
   color: #fff;
   line-height: 70px;
   text-align: center;
+}
+
+
+
+
+
+@media (max-width: 1000px) {
+  .profile-card {
+    width: 50%;
+  }
+  .form-card {
+    width:60%;
+  }
+}
+
+@media (max-width: 670px) {
+  .profile-card {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .profiles {
+    margin-bottom: 0px;
+  }
+  .form-card {
+    width:100%;
+  }
 }
