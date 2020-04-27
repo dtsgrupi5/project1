@@ -127,6 +127,8 @@ box-sizing: border-box;
 
 .food-text-detail{
   font-size: 12px;
+  margin-left: 7px;
+  text-align: left;
 }
 
 /* END */
