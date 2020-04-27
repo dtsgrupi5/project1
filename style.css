@@ -82,6 +82,7 @@
   width: 30%;
   text-align: center;
   background-color: dodgerblue;
+  box-sizing: border-box;
 }
 
 .form-card h3 {
