@@ -82,5 +82,9 @@ margin-bottom: 20px;
 @media(max-width:670px){
   .profile-card {
     width: 100%;
+    margin-bottom: 20px;
   }
+  .profiles{
+    margin-bottom: 0px;
+    }
 }
