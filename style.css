@@ -79,7 +79,7 @@
 /* EXTRA 1 */
 
 .extra1{
-  height: 300px;
+  height: 500px;
   background-color: #f7f7f7b2;
 }
 
@@ -90,17 +90,21 @@
 }
 
 .food-icon img {
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   border: 2px solid #dee7ec;
 }
 
 .text-heading{
   border-top: 2px solid #dee7ec ; 
-  color: red;
+  color: rgb(15, 18, 209);
 }
 
-/* */
+.food-text{
+  text-align: center;
+}
+
+/* END */
 
 .form-card {
   border-radius: 15px;
